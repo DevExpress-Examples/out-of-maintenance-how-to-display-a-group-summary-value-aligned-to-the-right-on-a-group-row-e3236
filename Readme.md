@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to display a group summary value aligned to the right on a group row
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3236/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to display a group summary aligned to the right side of a group row. </p>
